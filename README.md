@@ -1,7 +1,7 @@
 # About Calculator
 A simple calculator built with Python and Tkinter
 
-#Requirements
+# Requirements
 Any Windows NT operating system
 
 # Using
