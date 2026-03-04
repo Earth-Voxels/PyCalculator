@@ -38,7 +38,7 @@ and you will get a executable .exe file
 # Credits
 Project made by Earth Voxels
 
-Github page made bby Earth Voxels
+Github page made by Earth Voxels
 
 README made by Earth Voxels
 
