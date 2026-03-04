@@ -34,3 +34,9 @@ run the command
 "pyinstaller --noconfirm --onefile --windowed --icon "logo.ico"  "Calculator.py"
 
 and you will get a executable .exe file
+
+# Credits
+Project made by Earth Voxels
+Github page made bby Earth Voxels
+README made by Earth Voxels
+Compiled by Earth Voxels
