@@ -4,6 +4,8 @@ A simple calculator built with Python and Tkinter
 # Requirements
 Any Windows NT operating system
 
+Any Linux distro
+
 # Using the Program
 # on Windows
 Download the "Calculator.exe" file and simply run it
@@ -37,7 +39,7 @@ run the command
 
 "pyinstaller --noconfirm --onefile --windowed --icon "logo.ico"  "Calculator.py"
 
-and you will get a executable .exe file
+and you will get a executable .exe or Linux executable  file
 
 # Credits
 Project made by Earth Voxels
